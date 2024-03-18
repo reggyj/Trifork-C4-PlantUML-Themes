@@ -95,6 +95,9 @@
   !$SEQUENCE_BG_COLOR = $BOUNDARY_BG_COLOR
 !endif
 
+'Prevent length adjust
+skinparam lengthAdjust none
+
 ' "C4 styled" default is no foot boxes
 hide footbox
 ' "C4 styled" default is that lifeline is arrow color
