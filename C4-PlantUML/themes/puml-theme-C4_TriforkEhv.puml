@@ -95,8 +95,9 @@
   !$SEQUENCE_BG_COLOR = $BOUNDARY_BG_COLOR
 !endif
 
-'Prevent length adjust
+'Fix text rendering
 skinparam lengthAdjust none
+skinparam DefaultTextAlignment center
 
 ' "C4 styled" default is no foot boxes
 hide footbox
