@@ -38,7 +38,7 @@
 ' (no default values which are defined in C4.puml) 
 ' If skinparams and styles are defined with concrete values no variables are required 
 !$BOUNDARY_BG_COLOR ?= "#EFF3F7"
-!$BOUNDARY_COLOR ?= "#7B8696"
+!$BOUNDARY_COLOR ?= "#FF3766"
 !$ARROW_COLOR ?= "#272C32"
 
 ' replace transparent with concrete background that it can be used as font color too
