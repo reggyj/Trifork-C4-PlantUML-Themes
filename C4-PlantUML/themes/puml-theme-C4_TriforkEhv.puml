@@ -96,8 +96,8 @@
 !endif
 
 'Fix text rendering
-skinparam lengthAdjust none
-skinparam DefaultFontStyle center
+'skinparam lengthAdjust none
+'skinparam DefaultTextAlignment center
 
 ' "C4 styled" default is no foot boxes
 hide footbox
