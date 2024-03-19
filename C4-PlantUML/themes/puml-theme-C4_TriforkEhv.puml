@@ -96,7 +96,7 @@
 !endif
 
 skinparam defaultFontName "Roboto Mono"
-skinparam defaultFontSize 13
+skinparam defaultFontSize 15
 
 ' "C4 styled" default is no foot boxes
 hide footbox
