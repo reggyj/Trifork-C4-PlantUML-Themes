@@ -96,8 +96,8 @@
 !endif
 
 'skinparam defaultFontName "DejaVu Sans Mono"
-skinparam defaultFontName "Jetbrains Sans"
-skinparam defaultFontSize 14
+skinparam defaultFontName "Space Mono"
+skinparam defaultFontSize 13
 
 ' "C4 styled" default is no foot boxes
 hide footbox
