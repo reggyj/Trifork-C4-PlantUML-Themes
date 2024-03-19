@@ -97,7 +97,7 @@
 
 'skinparam defaultFontName "DejaVu Sans Mono"
 skinparam defaultFontName "Liberation Mono"
-skinparam defaultFontSize 13
+skinparam defaultFontSize 18
 
 ' "C4 styled" default is no foot boxes
 hide footbox
