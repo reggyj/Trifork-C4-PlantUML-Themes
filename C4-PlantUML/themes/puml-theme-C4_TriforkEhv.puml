@@ -95,9 +95,6 @@
   !$SEQUENCE_BG_COLOR = $BOUNDARY_BG_COLOR
 !endif
 
-skinparam defaultFontName "Roboto Serif"
-skinparam defaultFontSize 15
-
 ' "C4 styled" default is no foot boxes
 hide footbox
 ' "C4 styled" default is that lifeline is arrow color
