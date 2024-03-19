@@ -95,9 +95,7 @@
   !$SEQUENCE_BG_COLOR = $BOUNDARY_BG_COLOR
 !endif
 
-'Fix text rendering
-'skinparam lengthAdjust none
-'skinparam DefaultTextAlignment center
+skinparam defaultFontName "Liberation Mono"
 
 ' "C4 styled" default is no foot boxes
 hide footbox
