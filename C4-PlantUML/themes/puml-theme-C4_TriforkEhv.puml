@@ -95,9 +95,9 @@
   !$SEQUENCE_BG_COLOR = $BOUNDARY_BG_COLOR
 !endif
 
-'skinparam defaultFontName "Liberation Mono"
-skinparam defaultFontName "DejaVu Sans Mono"
-skinparam defaultFontSize 12
+'skinparam defaultFontName "DejaVu Sans Mono"
+skinparam defaultFontName "Liberation Mono"
+skinparam defaultFontSize 13
 
 ' "C4 styled" default is no foot boxes
 hide footbox
